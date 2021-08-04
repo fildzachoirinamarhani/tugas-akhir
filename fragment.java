@@ -42,7 +42,7 @@ public class WisataFragment extends Fragment {
     private RecyclerViewAdapter mRecycler;
     private ProgressDialog progressDialog;
 
-    private static final String URL="http://192.168.43.144/dinporabudpar/koneksi_wisata.php";
+    private static final String URL="";
 
     public WisataFragment() {
 
